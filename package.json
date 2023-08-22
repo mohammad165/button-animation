@@ -1,33 +1,16 @@
 {
   "name": "button-animations",
-  "version": "0.1.1",
+  "version": "0.1.8",
   "private": false,
-  
+  "main": "buttonAnimations.js",
   "scripts": {
-    "dev": "next dev",
-    "build": "next build",
-    "start": "next start",
-    "lint": "next lint"
-  },
-  "dependencies": {
-    "@types/node": "20.5.1",
-    "@types/react": "18.2.20",
-    "@types/react-dom": "18.2.7",
-    "eslint": "8.47.0",
-    "eslint-config-next": "13.4.19",
-    "next": "13.4.19",
-    "react": "18.2.0",
-    "react-dom": "18.2.0",
-    "typescript": "5.1.6"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/your-username/your-repo"
+    "url": "https://github.com/mohammad165/button-animation"
   },
   "description": "Button animation, typically refers to the visual effects applied to a button element on a website or application to make it more interactive and engaging for users.",
-  "main": "next.config.js",
-  "devDependencies": {},
   "author": "",
   "license": "ISC"
-  
 }
